@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1B4F7C6-6B09-4FD3-A2D9-1EDFF254D1B3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>剂量计算器</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>47a97ed9-6a22-884c-810e-86d64b4d18ea++2033</key>
+		<string>https://172.28.186.120:8443/svn/1438OBUZDC/06-Source/OBUZDCIOS/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>剂量计算器.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>47a97ed9-6a22-884c-810e-86d64b4d18ea++2033</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>47a97ed9-6a22-884c-810e-86d64b4d18ea++2033</key>
+		<string>https://172.28.186.120:8443/svn/1438OBUZDC</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://172.28.186.120:8443/svn/1438OBUZDC/06-Source/OBUZDCIOS/trunk/%E5%89%82%E9%87%8F%E8%AE%A1%E7%AE%97%E5%99%A8.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>47a97ed9-6a22-884c-810e-86d64b4d18ea++2033</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>47a97ed9-6a22-884c-810e-86d64b4d18ea++2033</string>
+			<key>IDESourceControlWCCName</key>
+			<string>trunk</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,213 @@
+
+/* Class = "IBUILabel"; text = "年龄(岁)"; ObjectID = "0SS-3s-Zy0"; */
+"0SS-3s-Zy0.text" = "年龄(岁)";
+
+/* Class = "IBUILabel"; text = "血清肌酐"; ObjectID = "0ld-mz-BTs"; */
+"0ld-mz-BTs.text" = "血清肌酐";
+
+/* Class = "IBUILabel"; text = "肌酐清除率(CrCL) > 60ml/min，勿需调整剂量"; ObjectID = "1DG-Yo-1nX"; */
+"1DG-Yo-1nX.text" = "肌酐清除率(CrCL) > 60ml/min，勿需调整剂量";
+
+/* Class = "IBUITextView"; text = "分享剂量计算器点击放大后扫描"; ObjectID = "2rP-gB-Oc1"; */
+"2rP-gB-Oc1.text" = "分享剂量计算器点击放大后扫描";
+
+/* Class = "IBUILabel"; text = "第四步："; ObjectID = "3pZ-yI-NpY"; */
+"3pZ-yI-NpY.text" = "第四步：";
+
+/* Class = "IBUILabel"; text = "50"; ObjectID = "4eo-al-7MT"; */
+"4eo-al-7MT.text" = "50";
+
+/* Class = "IBUIButton"; normalTitle = "配液小提示"; ObjectID = "5WA-eb-c91"; */
+"5WA-eb-c91.normalTitle" = "配液小提示";
+
+/* Class = "IBUILabel"; text = "简明处方资料"; ObjectID = "BJ5-ko-i2c"; */
+"BJ5-ko-i2c.text" = "简明处方资料";
+
+/* Class = "IBUILabel"; text = "血清肌酐"; ObjectID = "E1b-tQ-UIw"; */
+"E1b-tQ-UIw.text" = "血清肌酐";
+
+/* Class = "IBUILabel"; text = "请参考择泰®完整处方资料"; ObjectID = "E5l-IU-IAg"; */
+"E5l-IU-IAg.text" = "请参考择泰®完整处方资料";
+
+/* Class = "IBUILabel"; text = "剂量计算器"; ObjectID = "EPJ-gu-Wfi"; */
+"EPJ-gu-Wfi.text" = "剂量计算器";
+
+/* Class = "IBUILabel"; text = "选择患者性别。"; ObjectID = "F19-ap-bm4"; */
+"F19-ap-bm4.text" = "选择患者性别。";
+
+/* Class = "IBUITextView"; text = "择泰®适用于肾功能正常及轻中度肾功能不全的恶性肿瘤骨转移患者"; ObjectID = "FG3-Yr-Zx7"; */
+"FG3-Yr-Zx7.text" = "择泰®适用于肾功能正常及轻中度肾功能不全的恶性肿瘤骨转移患者";
+
+/* Class = "IBUILabel"; text = "浓缩液(ml)"; ObjectID = "HFP-PA-EZZ"; */
+"HFP-PA-EZZ.text" = "浓缩液(ml)";
+
+/* Class = "IBUIButton"; normalTitle = "确 定"; ObjectID = "Hhv-Rs-7Sq"; */
+"Hhv-Rs-7Sq.normalTitle" = "确 定";
+
+/* Class = "IBUILabel"; text = "4.4"; ObjectID = "Ht5-RI-DrX"; */
+"Ht5-RI-DrX.text" = "4.4";
+
+/* Class = "IBUIButton"; normalTitle = "操作指南"; ObjectID = "JUb-d6-XYx"; */
+"JUb-d6-XYx.normalTitle" = "操作指南";
+
+/* Class = "IBUILabel"; text = "第一步："; ObjectID = "KGT-cU-mKH"; */
+"KGT-cU-mKH.text" = "第一步：";
+
+/* Class = "IBUILabel"; text = "www.zometa.com.cn"; ObjectID = "KLm-xc-8qG"; */
+"KLm-xc-8qG.text" = "www.zometa.com.cn";
+
+/* Class = "IBUIButton"; normalTitle = "不同意"; ObjectID = "Kd0-vb-3DO"; */
+"Kd0-vb-3DO.normalTitle" = "不同意";
+
+/* Class = "IBUILabel"; text = "剂量计算器"; ObjectID = "Lu1-Lu-4oJ"; */
+"Lu1-Lu-4oJ.text" = "剂量计算器";
+
+/* Class = "IBUIButton"; normalTitle = "剂量计算器"; ObjectID = "LwA-2V-p89"; */
+"LwA-2V-p89.normalTitle" = "剂量计算器";
+
+/* Class = "IBUILabel"; text = "选择患者血清肌酐值并选择剂量单位。"; ObjectID = "MVJ-Hb-F96"; */
+"MVJ-Hb-F96.text" = "选择患者血清肌酐值并选择剂量单位。";
+
+/* Class = "IBUILabel"; text = "择泰®剂量。"; ObjectID = "NMd-xZ-KXS"; */
+"NMd-xZ-KXS.text" = "择泰®剂量。";
+
+/* Class = "IBUILabel"; text = "配液小提示"; ObjectID = "NRW-tZ-RXh"; */
+"NRW-tZ-RXh.text" = "配液小提示";
+
+/* Class = "IBUIButton"; normalTitle = "重新计算"; ObjectID = "OQm-AT-omk"; */
+"OQm-AT-omk.normalTitle" = "重新计算";
+
+/* Class = "IBUIButton"; normalTitle = "mg/dl"; ObjectID = "OSo-uH-sQM"; */
+"OSo-uH-sQM.normalTitle" = "mg/dl";
+
+/* Class = "IBUILabel"; text = "男性体重(kg)"; ObjectID = "OeR-pP-Bo5"; */
+"OeR-pP-Bo5.text" = "男性体重(kg)";
+
+/* Class = "IBUIButton"; normalTitle = "同 意"; ObjectID = "PUM-g1-8eo"; */
+"PUM-g1-8eo.normalTitle" = "同 意";
+
+/* Class = "IBUITextView"; text = "CrCL在30-60ml/min之间，建议根据肾功能不全的严重程度调整剂量"; ObjectID = "Pa6-Hb-9OL"; */
+"Pa6-Hb-9OL.text" = "CrCL在30-60ml/min之间，建议根据肾功能不全的严重程度调整剂量";
+
+/* Class = "IBUILabel"; text = "请选择剂量单位"; ObjectID = "Pwl-7I-NZf"; */
+"Pwl-7I-NZf.text" = "请选择剂量单位";
+
+/* Class = "IBUIButton"; normalTitle = "计 算"; ObjectID = "Qwh-hL-0Il"; */
+"Qwh-hL-0Il.normalTitle" = "计 算";
+
+/* Class = "IBUILabel"; text = "3.3"; ObjectID = "RMj-xA-xo5"; */
+"RMj-xA-xo5.text" = "3.3";
+
+/* Class = "IBUILabel"; text = "40"; ObjectID = "SPc-Ci-FcB"; */
+"SPc-Ci-FcB.text" = "40";
+
+/* Class = "IBUILabel"; text = "这是择泰剂量计算器应用程序。"; ObjectID = "Sjo-rr-4Wx"; */
+"Sjo-rr-4Wx.text" = "这是择泰剂量计算器应用程序。";
+
+/* Class = "IBUIButton"; normalTitle = "产品说明书"; ObjectID = "Ssh-tB-xFj"; */
+"Ssh-tB-xFj.normalTitle" = "产品说明书";
+
+/* Class = "IBUILabel"; text = "出计算出的肌酐清除率，选择合适的"; ObjectID = "V3F-xq-2NV"; */
+"V3F-xq-2NV.text" = "出计算出的肌酐清除率，选择合适的";
+
+/* Class = "IBUILabel"; text = "第三步："; ObjectID = "WHN-NU-ikh"; */
+"WHN-NU-ikh.text" = "第三步：";
+
+/* Class = "IBUIButton"; normalTitle = "指南推荐"; ObjectID = "YTX-og-uFE"; */
+"YTX-og-uFE.normalTitle" = "指南推荐";
+
+/* Class = "IBUILabel"; text = "免责声明与隐私条款"; ObjectID = "aQm-P4-PFo"; */
+"aQm-P4-PFo.text" = "免责声明与隐私条款";
+
+/* Class = "IBUIButton"; normalTitle = "产品说明书"; ObjectID = "bIJ-EU-zT0"; */
+"bIJ-EU-zT0.normalTitle" = "产品说明书";
+
+/* Class = "IBUILabel"; text = "女 性"; ObjectID = "bWW-jc-2P6"; */
+"bWW-jc-2P6.text" = "女 性";
+
+/* Class = "IBUILabel"; text = "登录"; ObjectID = "beO-3D-kLm"; */
+"beO-3D-kLm.text" = "登录";
+
+/* Class = "IBUILabel"; text = "MCC: OBU 140925216"; ObjectID = "g4p-cl-N76"; */
+"g4p-cl-N76.text" = "MCC: OBU 140925216";
+
+/* Class = "IBUILabel"; text = "1.6"; ObjectID = "gAV-qe-tZh"; */
+"gAV-qe-tZh.text" = "1.6";
+
+/* Class = "IBUILabel"; text = "男 性"; ObjectID = "gMc-Yy-qAZ"; */
+"gMc-Yy-qAZ.text" = "男 性";
+
+/* Class = "IBUILabel"; text = "择泰®剂量(mg)"; ObjectID = "gSd-fA-yFO"; */
+"gSd-fA-yFO.text" = "择泰®剂量(mg)";
+
+/* Class = "IBUILabel"; text = "选择患者年龄。"; ObjectID = "hsJ-bH-2pa"; */
+"hsJ-bH-2pa.text" = "选择患者年龄。";
+
+/* Class = "IBUILabel"; text = "年龄(岁)"; ObjectID = "hv5-Co-4hf"; */
+"hv5-Co-4hf.text" = "年龄(岁)";
+
+/* Class = "IBUILabel"; text = "肌酐清除率(ml/min)"; ObjectID = "j3s-08-zEu"; */
+"j3s-08-zEu.text" = "肌酐清除率(ml/min)";
+
+/* Class = "IBUILabel"; text = "仅"; ObjectID = "j5i-0l-NUQ"; */
+"j5i-0l-NUQ.text" = "仅";
+
+/* Class = "IBUILabel"; text = "第二步："; ObjectID = "jFM-5S-gaE"; */
+"jFM-5S-gaE.text" = "第二步：";
+
+/* Class = "IBUILabel"; text = "(您将通过浏览器打开择泰®官网。)"; ObjectID = "jQd-2G-RZI"; */
+"jQd-2G-RZI.text" = "(您将通过浏览器打开择泰®官网。)";
+
+/* Class = "IBUILabel"; text = "免责声明："; ObjectID = "jZk-BM-eTU"; */
+"jZk-BM-eTU.text" = "免责声明：";
+
+/* Class = "IBUILabel"; text = "对专业医学人士开放，请确认您的身份后再使"; ObjectID = "jxd-Yi-BrI"; */
+"jxd-Yi-BrI.text" = "对专业医学人士开放，请确认您的身份后再使";
+
+/* Class = "IBUILabel"; text = "诺华制药公司及其附属公司对于此应用程"; ObjectID = "kHn-hX-Hu5"; */
+"kHn-hX-Hu5.text" = "诺华制药公司及其附属公司对于此应用程";
+
+/* Class = "IBUIButton"; normalTitle = "剂量计算器"; ObjectID = "kcO-rT-3Pu"; */
+"kcO-rT-3Pu.normalTitle" = "剂量计算器";
+
+/* Class = "IBUIButton"; normalTitle = "关 闭"; ObjectID = "mha-y0-wbc"; */
+"mha-y0-wbc.normalTitle" = "关 闭";
+
+/* Class = "IBUILabel"; text = "Adapted from Cockcroft DW,Gault MH.Nephron.1976:16:31 41."; ObjectID = "nGh-lM-pHt"; */
+"nGh-lM-pHt.text" = "Adapted from Cockcroft DW,Gault MH.Nephron.1976:16:31 41.";
+
+/* Class = "IBUILabel"; text = "查看完整药品说明书。"; ObjectID = "qOE-Q3-fKW"; */
+"qOE-Q3-fKW.text" = "查看完整药品说明书。";
+
+/* Class = "IBUIButton"; normalTitle = "umol/L"; ObjectID = "qpa-dA-eQZ"; */
+"qpa-dA-eQZ.normalTitle" = "umol/L";
+
+/* Class = "IBUILabel"; text = "男 性"; ObjectID = "qx4-2t-2Pj"; */
+"qx4-2t-2Pj.text" = "男 性";
+
+/* Class = "IBUILabel"; text = "mg/dl"; ObjectID = "swH-zM-Ugk"; */
+"swH-zM-Ugk.text" = "mg/dl";
+
+/* Class = "IBUILabel"; text = "用。"; ObjectID = "uPc-Cd-5gk"; */
+"uPc-Cd-5gk.text" = "用。";
+
+/* Class = "IBUILabel"; text = "男性体重(kg)"; ObjectID = "uRg-tn-d89"; */
+"uRg-tn-d89.text" = "男性体重(kg)";
+
+/* Class = "IBUILabel"; text = "肌酐清除率计算器"; ObjectID = "uk8-M9-WMi"; */
+"uk8-M9-WMi.text" = "肌酐清除率计算器";
+
+/* Class = "IBUIButton"; normalTitle = "关 闭"; ObjectID = "v5C-ca-n1V"; */
+"v5C-ca-n1V.normalTitle" = "关 闭";
+
+/* Class = "IBUILabel"; text = "此简明处方资料的发布日期为：2014年12月12日，请"; ObjectID = "vG7-yf-6wv"; */
+"vG7-yf-6wv.text" = "此简明处方资料的发布日期为：2014年12月12日，请";
+
+/* Class = "IBUILabel"; text = "操作指南"; ObjectID = "vwx-Q3-Bj0"; */
+"vwx-Q3-Bj0.text" = "操作指南";
+
+/* Class = "IBUILabel"; text = "选择患者体重，点击计算。在下方读"; ObjectID = "wgf-ga-A3e"; */
+"wgf-ga-A3e.text" = "选择患者体重，点击计算。在下方读";
+
+/* Class = "IBUIButton"; normalTitle = "指南推荐"; ObjectID = "z07-tt-fcB"; */
+"z07-tt-fcB.normalTitle" = "指南推荐";

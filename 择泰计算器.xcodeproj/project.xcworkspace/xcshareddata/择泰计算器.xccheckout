@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8AE2D0F-6401-4AD4-8EB7-876005491A6F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>择泰计算器</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3BD7A4051FFC4E2C923B5F2788D380586F8A10BD</key>
+		<string>http://222.92.48.94:10101/r/zdc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/择泰计算器.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3BD7A4051FFC4E2C923B5F2788D380586F8A10BD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://222.92.48.94:10101/r/zdc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3BD7A4051FFC4E2C923B5F2788D380586F8A10BD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3BD7A4051FFC4E2C923B5F2788D380586F8A10BD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>1438OBUZDC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
